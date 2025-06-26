@@ -1,0 +1,6 @@
+# C++
+*.out
+a.out
+
+# macOS
+.DS_Store
