@@ -1,3 +1,5 @@
 # AtCoder Practice Repository
 
-これは僕(青山あお)のAtCoder学習用のリポジトリです。
+This is my personal repository for practicing AtCoder and learning algorithms.
+
+My AtCoder Profile: [aoyamaao](https://atcoder.jp/users/aoyamaao)
