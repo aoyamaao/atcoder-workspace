@@ -1,6 +1,7 @@
 # C++
 *.out
 a.out
+/compile_flags.txt
 
 # macOS
 .DS_Store

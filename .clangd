@@ -1,5 +1,0 @@
-CompileFlags:
-  Add:
-    - -std=c++20
-    # include pathとしてproject root(.)を指定
-    - -I.
